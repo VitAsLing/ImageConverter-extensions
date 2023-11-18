@@ -1,2 +1,2 @@
-# webp2png-extensions
-A Chrome extension that can convert Webp format images into PNG format, and perform compression and downloading.
+# ImageDownload-extensions
+A Chrome extension that can convert images into PNG format, and perform compression and downloading.

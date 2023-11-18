@@ -1,0 +1,18 @@
+{
+    "appName": {
+        "message": "Image Converter"
+    },
+    "appDescription":{
+        "message": "A Chrome extension that can convert images into PNG format, and perform compression and downloading."
+    },
+    "menuTitle": {
+      "message": "Image download as..."
+    },
+    "downloadPng": {
+      "message": "Download as PNG"
+    },
+    "downloadCompressedPng": {
+      "message": "Download as Compressed PNG"
+    }
+  }
+  
