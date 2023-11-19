@@ -1,5 +1,5 @@
 {
-  "name": "imagedownload-extensions",
+  "name": "imageconverter-extensions",
   "version": "1.0.0",
   "description": "A Chrome extension that can convert images into PNG format, and perform compression and downloading.",
   "main": "background.js",
