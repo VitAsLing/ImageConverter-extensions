@@ -1,7 +1,7 @@
 {
   "name": "imageconverter-extensions",
   "version": "1.0.0",
-  "description": "A Chrome extension that can convert images into PNG format, and perform compression and downloading.",
+  "description": "A Chrome extension that conveniently allows for image format conversion, compression, and downloading.",
   "main": "background.js",
   "scripts": {
     "watch": "webpack --config webpack/webpack.dev.js --watch",
