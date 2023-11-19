@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "Image Converter"
+  },
+  "appDescription": {
+    "message": "A Chrome extension that conveniently allows for image format conversion, compression, and downloading."
+  },
+  "menuTitle": {
+    "message": "Image Converter"
+  },
+  "download": {
+    "message": "Download this image"
+  },
+  "downloadCompresse": {
+    "message": "Download and compresse this image"
+  }
+}

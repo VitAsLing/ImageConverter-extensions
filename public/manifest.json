@@ -3,14 +3,14 @@
   "name": "__MSG_appName__",
   "description": "__MSG_appDescription__",
   "version": "1.0",
+  "background": {
+    "service_worker": "js/background.js"
+  },
   "icons": {
     "16": "images/icon-16.jpg",
     "32": "images/icon-32.jpg",
     "48": "images/icon-48.jpg",
     "128": "images/icon-128.jpg"
-  },
-  "background": {
-    "service_worker": "background.js"
   },
   "action": {
     "default_icon": {
@@ -18,9 +18,10 @@
       "32": "images/icon-32.jpg",
       "48": "images/icon-48.jpg",
       "128": "images/icon-128.jpg"
-    }
+    },
+    "default_popup": "popup.html"
   },
-  "permissions": ["contextMenus", "scripting", "activeTab"],
+  "permissions": ["contextMenus", "scripting", "activeTab", "storage"],
   "host_permissions": ["<all_urls>"],
   "default_locale": "en"
 }
